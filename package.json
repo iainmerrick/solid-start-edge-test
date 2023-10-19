@@ -20,7 +20,7 @@
     "@solidjs/router": "^0.8.3",
     "solid-js": "^1.8.5",
     "solid-start": "^0.3.9",
-    "solid-start-netlify": "^0.3.9"
+    "solid-start-netlify": "https://gitpkg.now.sh/iainmerrick/solid-start/packages/start-netlify?netlify"
   },
   "engines": {
     "node": ">=18"
